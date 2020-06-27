@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+asgiref = "==3.2.7"
+autopep8 = "==1.5.2"
+certifi = "==2020.4.5.1"
+chardet = "==3.0.4"
+Django = "==3.0.5"
+idna = "==2.9"
+pycodestyle = "==2.5.0"
+pytz = "==2020.1"
+requests = "==2.23.0"
+sqlparse = "==0.3.1"
+urllib3 = "==1.25.9"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
